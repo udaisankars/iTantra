@@ -1,0 +1,25 @@
+# Android Studio
+*.iml
+.gradle/
+local.properties
+
+# IntelliJ/Android Studio temporary files
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Build outputs from every module
+**/build/
+*.apk
+*.aab
+
+# Native build outputs
+.externalNativeBuild/
+.cxx/
+
+# Other generated files
+captures/
+.DS_Store
